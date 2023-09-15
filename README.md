@@ -9,11 +9,19 @@
 # 🚀 Projeto - Portifólio para escrita do README
 ![image](img/Captura%20de%20tela%202023-09-05%20075747.png)
 ## 📋 Descrição
-
+Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
 ## 🔧 Funcionalidades
-
-### 🛠️ Tecnoligias utilizadas
-
+#Modelo para criação de páginas
+#Atrair recrutadores e empresas
+#Construir um negócio próprio
+#Crescer como Empresa
+### 🛠️ Tecnologias utilizadas
+-Git  
+-GitHub  
+-HTML  
+-CSS  
+-Vs Code  
+-README.md  
 ##  📚 Fontes Consultadas
 
 ## 🙋‍♂️ Autores
