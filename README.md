@@ -18,8 +18,8 @@ Este é um modelo de página inicial simples e moderna, projetado para ajudar vo
 ### 🛠️ Tecnologias utilizadas
 -Git  
 -GitHub  
--HTML  
--CSS  
+-HTML 5  
+-CSS 3  
 -Vs Code  
 -README.md  
 ##  📚 Fontes Consultadas
