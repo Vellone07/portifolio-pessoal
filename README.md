@@ -9,7 +9,7 @@
 # 🚀 Projeto - Portifólio para escrita do README
 ![image](img/Captura%20de%20tela%202023-09-05%20075747.png)
 ## 📋 Descrição
-Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
+Este é um modelo de página inicial simples e moderna, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
 ## 🔧 Funcionalidades
 #Modelo para criação de páginas
 #Atrair recrutadores e empresas
@@ -23,6 +23,6 @@ Este é um modelo de página inicial simples e bonita, projetado para ajudar voc
 -Vs Code  
 -README.md  
 ##  📚 Fontes Consultadas
-Como escrever um README incrível(https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+[Como escrever um README incrível](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 ## 🙋‍♂️ Autores
 DAVI VELLONE E EMILY PESSOA
