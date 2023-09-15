@@ -15,5 +15,6 @@
 ### 🛠️ Tecnoligias utilizadas
 
 ##  📚 Fontes Consultadas
-
+Como escrever um README incrível(https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 ## 🙋‍♂️ Autores
+DAVI VELLONE E EMILY PESSOA
